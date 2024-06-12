@@ -1,0 +1,410 @@
+.fi{
+  position: relative;
+  margin:10px;
+  bottom: 10%;
+
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+.fp{
+  margin-top: 20px;
+  position: relative;
+  bottom: 20%;
+}
+#footer{
+  margin-top: 30px;
+  width: 100%;
+  height: 20%;
+  position: absolute;
+  text-align: center;
+  padding: 7% 7%;
+  background-color:  #55D8C1;
+}
+.b1{
+  width:100px;
+  height: 30px;
+  background-color: #003873;
+  color: #fff;
+  position: relative;
+    top: 40%;
+    left: 30%;
+}
+.b4{
+  font-size: 30px;
+
+  font-weight: 500;
+  width:100px;
+  height: 30px;
+  background-color: inherit;
+  color: #003873 ;
+  position: relative;
+  top: 20%;
+}
+.b5{
+  font-size: 30px;
+
+  font-weight: 500;
+  width:100px;
+  height: 30px;
+  background-color: inherit;
+  color: #003873 ;
+  position: relative;
+  top: 4%;
+}
+.b6{
+  font-size: 30px;
+
+  font-weight: 500;
+  width:100px;
+  height: 30px;
+  background-color: inherit;
+  color: #003873 ;
+  position: relative;
+  bottom: 11%;
+}
+.heading{
+  position: relative;
+  left:4%;
+  color:  #003873;
+  text-decoration: underline;
+}
+.heading1{
+  position: relative;
+  left:4%;
+  color:  #003873;
+  text-decoration: underline;
+}
+h3{
+  margin-top: 30px;
+}
+.b2{
+  width:100px;
+  height: 30px;
+  background-color: #003873;
+  color: #fff;
+  position: relative;
+    top: 25%;
+    left: 30%;
+}
+.b3{
+  width:100px;
+  height: 30px;
+  background-color: #003873;
+  color: #fff;
+  position: relative;
+    top: 8%;
+    left: 30%;
+}
+.brand{
+  color: #fff;
+  font-weight: bolder;
+  font-size: 2rem;
+  padding: 0;
+}
+.navbbar{
+  margin-bottom: 50px;
+}
+.middle{
+  margin: 4.5rem;
+  display: grid;
+  gap: 2rem;
+
+}
+.bottom{
+  margin: 4.5rem;
+  display: grid;
+  gap: 2rem;
+
+}
+.one{
+  grid-column-start: 1;
+  grid-column-end: 2;
+background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.two{
+  grid-column-start: 2;
+  grid-column-end: 3;
+background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+
+.three{
+  grid-column-start: 3;
+  grid-column-end: 4;
+background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+
+.four{
+  grid-row-start: 2;
+background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.five{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.six{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.seven{
+color: #006E7F;
+background-color: #DBDFFD;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.eigth{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.nine{
+color: #006E7F;
+background-color: #DBDFFD;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.ten{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.eleven{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.tweleve{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.thirteen{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.fourteen{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.fiveteen{
+color: #006E7F;
+background-color: #DBDFFD;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.sixteen{
+color: #006E7F;
+background-color: #DBDFFD;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.seventeen{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.one1{
+  grid-column-start: 1;
+  grid-column-end: 2;
+background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.two2{
+  grid-column-start: 2;
+  grid-column-end: 3;
+background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+
+.three3{
+  grid-column-start: 3;
+  grid-column-end: 4;
+background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+
+.four4{
+  grid-row-start: 2;
+background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.five5{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.six6{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.seven7{
+color: #006E7F;
+background-color: #DBDFFD;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.eigth8{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.nine9{
+color: #006E7F;
+background-color: #DBDFFD;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.ten10{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.eleven11{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.tweleve12{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.thirteen13{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.fourteen14{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.fiveteen15{
+color: #006E7F;
+background-color: #DBDFFD;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.sixteen16{
+color: #006E7F;
+background-color: #DBDFFD;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}
+.seventeen17{
+  background-color: #DBDFFD;
+color: #006E7F;
+width: 380px;
+height: 200px;
+text-align: center;
+border-radius: 20px;margin: 30px;
+}

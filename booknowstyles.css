@@ -1,0 +1,34 @@
+.brand{
+  color: #fff;
+  font-weight: bolder;
+  font-size: 2rem;
+  padding: 0;
+}
+.container{
+  padding: 80px 60px 100px;
+
+}
+.hi{
+  background-color: #DBDFFD;
+
+}
+h3{
+  color:#541690;
+}
+.b1{
+  background-color: #003873;
+color: #fff;
+
+}
+#footer{
+  margin-top: 100px;
+  width: 100%;
+  height: 10%;
+  position: absolute;
+  text-align: center;
+  padding: 7% 7%;
+  background-color:  #55D8C1;
+}
+i{
+  padding:.75% .75%;
+}
